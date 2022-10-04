@@ -39,7 +39,7 @@ body {
 }
 
 .container .card .img-container {
-    background: url(/images/image-product-desktop.jpg);
+    background: url(images/image-product-desktop.jpg);
     background-size: cover;
     flex-basis: 50%;
 }
@@ -62,7 +62,7 @@ body {
     }
 
     .container .card .img-container {
-        background: url(/images/image-product-mobile.jpg);
+        background: url(images/image-product-mobile.jpg);
         background-size: cover;
         flex-basis: 35%;
     }
